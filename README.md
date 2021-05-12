@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @a-kennedy-develops
+- 👋 Hi, I’m Alex
 - 👀 I’m interested in UX Design and Development
 - 🌱 I’m currently learning React and React Native
 - 💞️ I’m looking to collaborate on anything with a focus on UX and front-end frameworks
