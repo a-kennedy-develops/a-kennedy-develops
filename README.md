@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Alex
 - 👀 I’m interested in UX Design and Development
 - 👔 I'm a front-end engineer for The Bank of London
-- 🌱 I’m currently learning more aboout ReactJS and React Native
 - 💞️ I’m looking to collaborate on anything with a focus on UX and front-end frameworks
 - 📫 How to reach me - https://www.linkedin.com/in/alexkennedy96/
