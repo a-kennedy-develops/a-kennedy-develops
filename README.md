@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Alex
-- 👀 I’m interested in Frontend Frameworks and UX Design
 - 👔 I'm a Full-stack engineer with a focus on frontend development
-- 🌱 I’m currently learning more about NextJS
+- 🌱 I’m currently learning more about CMS services like Sitecore
 - 📫 How to reach me - https://www.linkedin.com/in/alexkennedy96/
