@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Alex
-- 👔 I'm a Full-stack engineer with a focus on frontend development
-- 🌱 I’m currently learning more about CMS services like Sitecore
+- 👔 I'm a full-stack engineer highly proficent in frontend development
+- 🌱 I’m currently learning more about and working in DevOps and AI tooling
 - 📫 How to reach me - https://www.linkedin.com/in/alexkennedy96/
